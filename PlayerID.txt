@@ -1,0 +1,102 @@
+User: abdullah
+mail: abdullah.isaacs@gmail.com
+ID: 9512285835083
+Adress: 29 ricardo
+The winning numbers are: [5, 20, 29, 44, 46, 47]
+Prizes are as seen bellow: 
+ Prizes: [0, 0, 20, 100.5, 2384, 8584, 10000000]
+ 1 match = R0, 2 matches = R20, 3 matches = R150, 4 matches = R2384, 5 matches = R8584 , 6 matches = R10 000 000
+Entry 1 : [20, 32, 44, 43, 42, 41]
+Winning in numbers entry1: [20, 44]
+Entry 2 : [31, 30, 6, 7, 21, 33]
+Winning numbers in entry2: []
+Entry 3 : [43, 44, 34, 22, 8, 9]
+Winning numbers in entry3: [44]
+Here is your amount won: 20
+ Account holder: abdullah
+ Account number: 6797544679
+ Bank: ABSA
+The winning numbers are: [3, 6, 11, 14, 19, 42]
+Prizes are as seen bellow: 
+ Prizes: [0, 0, 20, 100.5, 2384, 8584, 10000000]
+ 1 match = R0, 2 matches = R20, 3 matches = R150, 4 matches = R2384, 5 matches = R8584 , 6 matches = R10 000 000
+Entry 1 : [8, 22, 34, 35, 45, 44]
+Winning in numbers entry1: []
+Entry 2 : [42, 5, 4, 49, 47, 48]
+Winning numbers in entry2: [42, 42]
+Entry 3 : [24, 23, 22, 33, 43, 31]
+Winning numbers in entry3: []
+Here is your amount won: 20
+ Account holder: abdullah
+ Account number: 89565323
+ Bank: ABSA
+The winning numbers are: [6, 19, 21, 23, 24, 46]
+Prizes are as seen bellow: 
+ Prizes: [0, 0, 20, 100.5, 2384, 8584, 10000000]
+ 1 match = R0, 2 matches = R20, 3 matches = R150, 4 matches = R2384, 5 matches = R8584 , 6 matches = R10 000 000
+Entry 1 : [21, 33, 43, 42, 32, 19]
+Winning in numbers entry1: [19, 21]
+Entry 2 : [31, 21, 22, 23, 45, 46]
+Winning numbers in entry2: [21, 23, 46]
+Entry 3 : [49, 48, 38, 37, 25, 11]
+Winning numbers in entry3: []
+Here is your amount won: 120.5
+ Account holder: abdullah
+ Account number: 89865656
+ Bank: Standard Bank
+The winning numbers are: [16, 19, 22, 25, 31, 49]
+Prizes are as seen bellow: 
+ Prizes: [0, 0, 20, 100.5, 2384, 8584, 10000000]
+ 1 match = R0, 2 matches = R20, 3 matches = R150, 4 matches = R2384, 5 matches = R8584 , 6 matches = R10 000 000
+Entry 1 : [22, 34, 33, 43, 42, 32]
+Winning in numbers entry1: [22]
+Entry 2 : [31, 41, 43, 49, 24, 25]
+Winning numbers in entry2: [25, 31, 49]
+Entry 3 : [26, 12, 13, 14, 15, 27]
+Winning numbers in entry3: []
+Here is your amount won: 100.5
+ Account holder: abdullah
+ Account number: 32656596562
+ Bank: ABSA
+The winning numbers are: [2, 7, 16, 28, 30, 49]
+Prizes are as seen bellow: 
+ Prizes: [0, 0, 20, 100.5, 2384, 8584, 10000000]
+ 1 match = R0, 2 matches = R20, 3 matches = R150, 4 matches = R2384, 5 matches = R8584 , 6 matches = R10 000 000
+Entry 1 : [10, 24, 36, 46, 45, 35]
+Winning in numbers entry1: []
+Entry 2 : [34, 44, 43, 49, 42, 41]
+Winning numbers in entry2: [49]
+Entry 3 : [31, 30, 40, 7, 8, 9]
+Winning numbers in entry3: [7, 30]
+Here is your amount won: 20
+ Account holder: abdullah
+ Account number: 9887654
+ Bank: ABSA
+The winning numbers are: [5, 7, 18, 28, 38, 41]
+Prizes are as seen bellow: 
+ Prizes: [0, 0, 20, 100.5, 2384, 8584, 10000000]
+ 1 match = R0, 2 matches = R20, 3 matches = R150, 4 matches = R2384, 5 matches = R8584 , 6 matches = R10 000 000
+Entry 1 : [36, 46, 47, 37, 33, 32]
+Winning in numbers entry1: []
+Entry 2 : [42, 41, 31, 30, 40, 49]
+Winning numbers in entry2: [41, 41]
+Entry 3 : [46, 45, 35, 23, 24, 25]
+Winning numbers in entry3: []
+Here is your amount won: 20
+ Account holder: abdullah
+ Account number: 895662332
+ Bank: FNB
+The winning numbers are: [5, 7, 24, 26, 42, 49]
+Prizes are as seen bellow: 
+ Prizes: [0, 0, 20, 100.5, 2384, 8584, 10000000]
+ 1 match = R0, 2 matches = R20, 3 matches = R150, 4 matches = R2384, 5 matches = R8584 , 6 matches = R10 000 000
+Entry 1 : [12, 11, 25, 24, 36, 35]
+Winning in numbers entry1: [24, 24]
+Entry 2 : [45, 44, 49, 20, 32, 31]
+Winning numbers in entry2: [49, 49]
+Entry 3 : [19, 18, 30, 40, 41, 43]
+Winning numbers in entry3: []
+Here is your amount won: 40
+ Account holder: abdullah
+ Account number: 98956532
+ Bank: FNB
