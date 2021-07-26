@@ -13,7 +13,7 @@ def claim_window():
     values2 = StringVar()
 
     # code to add widgets and style window will go here
-    root.geometry("450x550")
+    root.geometry("800x600")
     root.title("Currency Converter")
     root.config(bg='GREY')
     root.resizable(0, 0)
